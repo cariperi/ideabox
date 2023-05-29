@@ -1,0 +1,10 @@
+.edit {
+  font-size: 12px;
+  width: 100%;
+  background-color: greenyellow;
+}
+
+.checkmark {
+  background-color: pink;
+  width: 50%;
+}
